@@ -61,6 +61,7 @@ h2 {
 
 h3 {
 	font-size: 1.5rem;
+	letter-spacing: .04rem;
 }
 
 img {
@@ -358,11 +359,46 @@ address {
 	}
 }
 
-/* Clients Section */
-.clients-section {
+/* Teams Section */
+.team-section {
 	background-color: #eee;
 }
 
+.team-box {
+	margin-bottom: 2.5rem;
+	text-align: center;
+}
+
+.team-box img {
+	width: 300px;
+	height: auto;
+	border-radius: 300px;
+	margin: 0 auto 1.5rem;
+}
+
+.team-box h3 {
+	margin-bottom: .2rem;
+}
+
+.team-box p {
+	margin-bottom: 1rem;
+}
+
+.team-box a {
+	margin: 0 5px;
+	width: 40px;
+	height: 40px;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	background: #c6ab80;
+	color: white;
+}
+.team-box a:hover {
+	color: #394149;
+}
+
+/* Clients Section */
 .clients-section img {
 	margin-bottom: 2rem;
 }

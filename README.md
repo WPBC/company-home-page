@@ -1,16 +1,20 @@
-# Company Home Page with Flexbox
+# Company Home Page
 
 ## Project Goals
 
-In this project, you’ll be using flexbox to design and build the layout for a company’s homepage. You can choose to build a new homepage for an existing company or imagine your own dream company!.
+Use flexbox to design and build a responsive layout for a company’s homepage.
 
 ### Plan
 
-Build a company page to include generic sections which could be universally used for a number of different businesses, such as a services, clients and contact sections.
+Create a company page to include generic sections such as a services, clients, teams and contact sections which could be universally used for a number of different businesses.
 
 ### Resources
   
-* Banner Photo By: [Riccardo Annandale](https://unsplash.com/@pavement_special)
-* Image Placeholders: [placeholder.com/](https://placeholder.com/)
+* Banner photo by: [Riccardo Annandale](https://unsplash.com/@pavement_special)
+* Team member 1 photo by [Michael Dam](https://unsplash.com/@michaeldam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+* Team member 2 photo by [Ben Parker](https://unsplash.com/@brokenlenscap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+* Team member 3 photo by [Hashim hadi<](https://unsplash.com/@hashimhadi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+* Team member 4 photo by: [Kevin Hellhake](https://unsplash.com/@coast77?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+* Image placeholders: [placeholder.com](https://placeholder.com/)
 * Icons: [fontawesome.com](https://fontawesome.com/)
-* Dummy Logos: [logoipsum.com](https://logoipsum.com/)
+* Dummy logos: [logoipsum.com](https://logoipsum.com/)
